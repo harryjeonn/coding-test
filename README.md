@@ -7,6 +7,8 @@
 
 [2022 KAKAO BLIND RECRUITMENT 신고 결과 받기](https://github.com/harryjeonn/coding-test/blob/main/ReportResult.playground/Contents.swift)
 
+[최소직사각형](https://github.com/harryjeonn/coding-test/blob/main/MinimalRectangle.playground/Contents.swift)
+
 ## Reference
 
 [Programmers](https://programmers.co.kr/)
