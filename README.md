@@ -9,6 +9,8 @@
 
 [최소직사각형](https://github.com/harryjeonn/coding-test/blob/main/MinimalRectangle.playground/Contents.swift)
 
+[로또의 최고 순위와 최저 순위](https://github.com/harryjeonn/coding-test/blob/main/Lotto.playground/Contents.swift)
+
 ## Reference
 
 [Programmers](https://programmers.co.kr/)
