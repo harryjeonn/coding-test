@@ -11,6 +11,8 @@
 
 [로또의 최고 순위와 최저 순위](https://github.com/harryjeonn/coding-test/blob/main/Lotto.playground/Contents.swift)
 
+[나머지가 1이 되는 수 찾기](https://github.com/harryjeonn/coding-test/blob/main/CheckRemainder.playground/Contents.swift)
+
 ## Reference
 
 [Programmers](https://programmers.co.kr/)
