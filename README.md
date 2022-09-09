@@ -13,6 +13,8 @@
 
 [나머지가 1이 되는 수 찾기](https://github.com/harryjeonn/coding-test/blob/main/CheckRemainder.playground/Contents.swift)
 
+[없는 숫자 더하기](https://github.com/harryjeonn/coding-test/blob/main/AddNumber.playground/Contents.swift)
+
 ## Reference
 
 [Programmers](https://programmers.co.kr/)
