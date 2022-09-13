@@ -15,6 +15,8 @@
 
 [없는 숫자 더하기](https://github.com/harryjeonn/coding-test/blob/main/AddNumber.playground/Contents.swift)
 
+[부족한 금액 계산하기](https://github.com/harryjeonn/coding-test/blob/main/PriceCalculator.playground/Contents.swift)
+
 ## Reference
 
 [Programmers](https://programmers.co.kr/)
